@@ -9,8 +9,14 @@ This repository is created to learn basic Git commands.
 - Practice git status and git log
 - Practive git rm --cached README.MD
 
+## Purpose
+- commit
+- global config 
+- amend
+
+
 ## Author
-Name: Santhanan  
+Name: Santhanan S
 Date: 2026-02-05
 
 ## Notes

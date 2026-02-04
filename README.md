@@ -8,7 +8,7 @@ This repository is created to learn basic Git commands.
 - Practice git commit
 - Practice git status and git log
 - Practive git rm --cached README.MD
-
+- Practice git changed done in git web console
 ## Purpose
 - commit
 - global config 

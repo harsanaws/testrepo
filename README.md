@@ -13,6 +13,7 @@ This repository is created to learn basic Git commands.
 - commit
 - global config 
 - amend
+- change author
 
 
 ## Author

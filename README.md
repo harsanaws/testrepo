@@ -1,24 +1,3 @@
-# Git Learning Repository
+## DevOps Project for Beginners   
 
-This repository is created to learn basic Git commands.
-
-## Purpose
-- Practice git init
-- Practice git add
-- Practice git commit
-- Practice git status and git log
-- Practive git rm --cached README.MD
-- Practice git changed done in git web console
-## Purpose
-- commit
-- global config 
-- amend
-- change author
-
-
-## Author
-Name: Santhanan S
-Date: 2026-02-05
-
-## Notes
-This is a sample file for Git learning.
+[![Image](https://github.com/yankils/Simple-DevOps-Project/blob/master/Devops_course.PNG "DevOps Project - CI/CD with Jenkins Ansible Docker Kubernetes ")](https://www.udemy.com/course/valaxy-devops/?referralCode=8147A5CF4C8C7D9E253F)
